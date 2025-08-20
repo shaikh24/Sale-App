@@ -1,0 +1,1 @@
+Put images here used by ads or UI. Don't include large images in repo.
